@@ -1,3 +1,5 @@
+org: juthi
+app: chatbot
 
 service: my-bot
 
